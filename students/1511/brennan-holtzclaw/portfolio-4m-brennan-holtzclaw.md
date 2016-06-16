@@ -162,11 +162,11 @@ In the end, I would like to congratulate Brennan on completing Module 4 and grad
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 5
-* **B: Individual Work & Projects**: 5
-* **C: Group Work & Projects**: 5
-* **D: Community Participation**: 5
-* **E: Peer & Instructor Feedback**: 5
+* **A: End-of-Module Assessment**: 5 (or like a default 3)
+* **B: Individual Work & Projects**: 5 (3)
+* **C: Group Work & Projects**: 5 (3)
+* **D: Community Participation**: 5 (4)
+* **E: Peer & Instructor Feedback**: 5 (3?)
 
 ### Notes
 
